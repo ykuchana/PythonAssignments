@@ -20,3 +20,10 @@ FileName: _5_factorial_of_a_number.py
 
 ### Task 2: Using the Math Module for Calculations
 FileName: _6_calculations_using_math.py
+
+## Assignment - 4
+### Task 1: Read a File and Handle Errors
+FileName: _7_files_exceptions_and_errors.py
+
+### Task 2: Write and Append Data to a File
+FileName: _8_write_and_append_data_to_a_file.py
