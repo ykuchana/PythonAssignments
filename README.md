@@ -27,3 +27,10 @@ FileName: _7_files_exceptions_and_errors.py
 
 ### Task 2: Write and Append Data to a File
 FileName: _8_write_and_append_data_to_a_file.py
+
+## Assignment - 5
+### Task 1: Create a Dictionary of Student Marks
+FileName: _9_dictionary_of_student_marks.py
+
+### Task 2: Demonstrate List Slicing
+FileName: _10_list_slicing.py
